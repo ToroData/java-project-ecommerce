@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.AddressTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-05-20T16:31:29" hostname="DSR" time="0.021">
+  <properties/>
+  <testcase name="Sanity (Address) - Methods definition" classname="edu.uoc.pac4.AddressTest" time="0.014"/>
+  <testcase name="testAddress()" classname="edu.uoc.pac4.AddressTest" time="0.001"/>
+  <testcase name="Sanity (AddressException) - Fields definition" classname="edu.uoc.pac4.AddressTest" time="0.001"/>
+  <testcase name="testIsInternational()" classname="edu.uoc.pac4.AddressTest" time="0.001"/>
+  <testcase name="Sanity (AddressException) - Methods definition" classname="edu.uoc.pac4.AddressTest" time="0.0"/>
+  <testcase name="testSetNumber()" classname="edu.uoc.pac4.AddressTest" time="0.002"/>
+  <testcase name="testSetStreet()" classname="edu.uoc.pac4.AddressTest" time="0.0"/>
+  <testcase name="testSetCity()" classname="edu.uoc.pac4.AddressTest" time="0.001"/>
+  <testcase name="Sanity (Address) - Fields definition" classname="edu.uoc.pac4.AddressTest" time="0.0"/>
+  <testcase name="testSetZipCode()" classname="edu.uoc.pac4.AddressTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
