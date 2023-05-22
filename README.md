@@ -1,5 +1,8 @@
 # Java Project E-Commerce
 
+Discontinued project. It remains to implement the second project and improve some details of the third project
+---
+
 ## Project 1
 ![UML Project 1](UML/PAC4Ex1.png)
 
